@@ -20,7 +20,7 @@
         "react",
         "@typescript-eslint"
     ],
-    "ignorePatterns": ["craco.config.js"],
+    "ignorePatterns": ["craco.config.js", "commitlint.config.js"],
     "rules": {
         "react/react-in-jsx-scope": "off",
         "no-var-requires": "off"
